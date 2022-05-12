@@ -9,7 +9,7 @@ export default function SafetyModal({ open, hide }) {
                     <div className="flex items-center">
                         <p className="text-2xl font-extrabold">Notice</p>
                         <div className="flex-1" />
-                        <img className={classNames('w-8 inline-block')} src="https://scream.sh/img/scream-multi.png" alt="" />
+                        <img className={classNames('w-8 inline-block')} src="https://scream.dei.finance/imgscream-multi.png" alt="" />
                     </div>
                     <p>
                         As pursuant to US law, users located in the US are <b>not permitted</b> to use Scream. Only users located outside of the US are permitted to use Scream.

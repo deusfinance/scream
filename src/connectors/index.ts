@@ -42,7 +42,7 @@ export const walletconnect = new WalletConnectConnector({
 export const walletlink = new WalletLinkConnector({
     url: process.env.NEXT_PUBLIC_NETWORK_URL,
     appName: 'Scream',
-    appLogoUrl: 'https://scream.sh/img/scream-multi.png'
+    appLogoUrl: 'https://scream.dei.finance/imgscream-multi.png'
 })
 
 export const connectorsByName: { [connectorName in ConnectorNames]: any } = {

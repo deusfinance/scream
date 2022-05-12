@@ -53,8 +53,8 @@ export default function Stats() {
 
                     <div>
                         <div className="space-x-4">
-                            <img className="hidden sm:inline-block w-40" src="https://scream.sh/img/scream-logotype.png" alt="" />
-                            <img className={classNames('w-8 inline-block', refreshing && 'animate-spin')} src="https://scream.sh/img/scream-multi.png" alt="" />
+                            <img className="hidden sm:inline-block w-40" src="https://scream.dei.finance/imgscream-logotype.png" alt="" />
+                            <img className={classNames('w-8 inline-block', refreshing && 'animate-spin')} src="https://scream.dei.finance/imgscream-multi.png" alt="" />
                         </div>
                         {/* <p className="text-right">
                             <a href="https://docs.scream.sh/" target="_blank" className="text-xs font-mono opacity-50 underline hover:no-underline" rel="noreferrer">

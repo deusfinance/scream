@@ -48,8 +48,8 @@ export default function StakeHeader({ veScreamData }: any) {
 
                     <div className="flex-1" />
                     <div className="flex justify-end items-center space-x-4">
-                        <img className="hidden sm:block w-40" src="https://scream.sh/img/scream-logotype.png" alt="" />
-                        <img className={classNames('w-8', refreshing && 'animate-spin')} src="https://scream.sh/img/scream-multi.png" alt="" />
+                        <img className="hidden sm:block w-40" src="https://scream.dei.finance/imgscream-logotype.png" alt="" />
+                        <img className={classNames('w-8', refreshing && 'animate-spin')} src="https://scream.dei.finance/imgscream-multi.png" alt="" />
                     </div>
                 </div>
                 <motion.div className="relative bg-white rounded-xl p-6 shadow-xl space-y-6">

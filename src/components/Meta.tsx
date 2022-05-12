@@ -19,10 +19,9 @@ const Meta = () => {
             <meta name="twitter:description" content={description} />
             <meta name="twitter:site" content={url} />
             <meta name="twitter:creator" content="@al5ina5" />
-            <link rel="icon" type="image/png" href="https://scream.sh/img/scream-blue-pink.png" />
-            {/* <link rel="apple-touch-icon" href="/img/purple-set/012-social-network.svg" /> */}
-            <meta property="og:image" content="https://scream.sh/img/og-image.png" />
-            <meta name="twitter:image" content="https://scream.sh/img/og-image.png" />
+            <link rel="icon" type="image/png" href="https://scream.dei.finance/img/scream-blue-pink.png" />
+            <meta property="og:image" content="https://scream.dei.finance/imgog-image.png" />
+            <meta name="twitter:image" content="https://scream.dei.finance/imgog-image.png" />
         </Head>
     )
 }
